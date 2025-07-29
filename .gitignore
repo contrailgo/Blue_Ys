@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Burst Compiler 대용량 바이너리
+/[Ll]ibrary/PackageCache/com.unity.burst*/libburst-llvm-*.dylib
